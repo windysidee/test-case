@@ -20,7 +20,6 @@ const bookSchema = new mongoose.Schema({
         // max value didn't specified since it's a free market
     },
 
-    // bunu sormak lazım
     isbn: {
         type: String,
         unique: true,
