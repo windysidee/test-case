@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Pride and Prejudice",
+        "authorName": "Jane Austen",
+        "authorCountry": "United Kingdom",
+        "authorBirthDate": "1775-12-16",
+        "price": 12,
+        "isbn": "978-0141439485",
+        "language": "English",
+        "numberOfPages": 279,
+        "publisher": "Penguin Books"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "authorName": "Harper Lee",
+        "authorCountry": "United States",
+        "authorBirthDate": "1926-04-28",
+        "price": 15,
+        "isbn": "978-0061120084",
+        "language": "English",
+        "numberOfPages": 336,
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "title": "The Lord of the Rings",
+        "authorName": "J.R.R. Tolkien",
+        "authorCountry": "United Kingdom",
+        "authorBirthDate": "1892-01-03",
+        "price": 25,
+        "isbn": "978-0547991029",
+        "language": "English",
+        "numberOfPages": 1178,
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "title": "The Great Gatsby",
+        "authorName": "F. Scott Fitzgerald",
+        "authorCountry": "United States",
+        "authorBirthDate": "1896-09-24",
+        "price": 10,
+        "isbn": "978-0743273565",
+        "language": "English",
+        "numberOfPages": 218,
+        "publisher": "Scribner"
+      },
+      {
+        "title": "1984",
+        "authorName": "George Orwell",
+        "authorCountry": "United Kingdom",
+        "authorBirthDate": "1903-06-25",
+        "price": 13,
+        "isbn": "978-0452284246",
+        "language": "English",
+        "numberOfPages": 328,
+        "publisher": "Penguin Books"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "authorName": "J.D. Salinger",
+        "authorCountry": "United States",
+        "authorBirthDate": "1919-01-01",
+        "price": 12,
+        "isbn": "978-0316769488",
+        "language": "English",
+        "numberOfPages": 277,
+        "publisher": "Little, Brown and Company"
+      },
+      {
+        "title": "The Little Prince",
+        "authorName": "Antoine de Saint-Exupéry",
+        "authorCountry": "France",
+        "authorBirthDate": "1900-06-29",
+        "price": 8,
+        "isbn": "978-0143035399",
+        "language": "English",
+        "numberOfPages": 96,
+        "publisher": "Penguin Books"
+      },
+      {
+        "title": "The Alchemist",
+        "authorName": "Paulo Coelho",
+        "authorCountry": "Brazil",
+        "authorBirthDate": "1947-08-24",
+        "price": 11,
+        "isbn": "978-0062315007",
+        "language": "English",
+        "numberOfPages": 197,
+        "publisher": "HarperCollins Publishers"
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "authorName": "Douglas Adams",
+        "authorCountry": "United Kingdom",
+        "authorBirthDate": "1952-03-11",
+        "price": 14,
+        "isbn": "978-0345391803",
+        "language": "English",
+        "numberOfPages": 224,
+        "publisher": "Del Rey"
+      }
+      
+]
+

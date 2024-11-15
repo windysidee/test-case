@@ -1,0 +1,48 @@
+###
+GET http://localhost:3000/fetchBooks
+
+### 
+
+###
+POST http://localhost:3000/createBook
+Content-Type: application/json
+
+{
+   "title": "The Great Gatsby",
+        "authorName": "F. Scott Fitzgerald",
+        "authorCountry": "United States",
+        "authorBirthDate": "1896-09-24",
+        "price": 10,
+        "isbn": "978-0743273565",
+        "language": "English",
+        "numberOfPages": 218,
+        "publisher": "Scribner"
+}
+###
+
+
+###
+DELETE http://localhost:3000/deleteBook?isbn=1234567
+###
+
+
+###
+
+PUT http://localhost:3000/updateBook
+Content-Type: application/json
+
+{
+  "isbn": "1234567",
+  "title": "New Title of The Hitchhiker's Guide to the Galaxy",
+  "price": 14,
+  "language": "English",
+  "publisher": "Del Rey"
+}
+###
+
+
+###
+GET http://localhost:3000/getBook?isbn=123456
+
+
+###
