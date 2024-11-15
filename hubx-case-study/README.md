@@ -1,4 +1,3 @@
-Case Study for HUBX Backend Engineer 
 
 Mongo - Express - Node.js 
 
